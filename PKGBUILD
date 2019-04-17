@@ -1,5 +1,3 @@
-# Maintainer: Alexey Pavlov <alexpux@gmail.com>
-
 _realname=libsodium
 pkgbase=${_realname}
 pkgname="${_realname}"
